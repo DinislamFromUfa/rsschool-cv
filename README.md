@@ -1,1 +1,1 @@
-https://DinislamFromUfa.github.io/rsschool-cv/
+<https://DinislamFromUfa.github.io/rsschool-cv/>
